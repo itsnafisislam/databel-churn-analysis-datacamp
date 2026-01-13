@@ -73,17 +73,6 @@ Dashboarding: KPI and Charts (Bar, Donut, Line).
 Here is the project file structure:
 
 
-databel-churn-analysis/          
-│
-├── README.md                    <-- Detailed Description
-├── 1_data/                        <-- Folder for raw file
-│   ├── Databel.xlxs
-│
-├── 2_analysis/                   <-- Final Excel Work
-│   └── Databel_Churn_Analysis_and_Dashboard.xlsx
-│
-└── dashboard_screenshot.png
-
 🚀 Recommendations
 
 Based on the analysis, the following actions are recommended:
@@ -94,3 +83,4 @@ Senior Support Program: Simplify the customer journey and offering for the Senio
 
 
 California Investigation: Conduct a localized audit in CA to determine if there is a specific network outage or aggressive local competitor causing the >60% churn.
+
